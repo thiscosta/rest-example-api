@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.tcdevelop</groupId>
-	<artifactId>projetocps</artifactId>
+	<artifactId>rest-example-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>projetocps</name>
-	<description>Projeto Centro Paula Souza</description>
+	<name>RestExampleApi</name>
+	<description>REST Example PI</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
